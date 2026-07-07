@@ -1,4 +1,6 @@
-                    QVAC AI Operating Layer
+System Architecture.png
+
+QVAC AI Operating Layer
                                │
         ┌──────────────────────┼──────────────────────┐
         │                      │                      │
@@ -10,3 +12,5 @@ Content Intelligence   Intelligence Verification   Broadcast Intelligence
  ├─ Translation            ├─ Trust Ranking          ├─ Video Scripts
  ├─ Extraction             └─ Knowledge Organization ├─ Social Content
  └─ Normalization                                    └─ Producer Copilot
+
+
