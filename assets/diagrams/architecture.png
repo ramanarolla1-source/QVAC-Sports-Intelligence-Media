@@ -1,1 +1,12 @@
-
+                    QVAC AI Operating Layer
+                               │
+        ┌──────────────────────┼──────────────────────┐
+        │                      │                      │
+        ▼                      ▼                      ▼
+Content Intelligence   Intelligence Verification   Broadcast Intelligence
+        │                      │                      │
+ ├─ Continuous Collection  ├─ Multi-source Validation ├─ Broadcast Briefings
+ ├─ OCR                    ├─ Confidence Score        ├─ Commentary Notes
+ ├─ Translation            ├─ Trust Ranking          ├─ Video Scripts
+ ├─ Extraction             └─ Knowledge Organization ├─ Social Content
+ └─ Normalization                                    └─ Producer Copilot
