@@ -293,7 +293,7 @@ data/
 
 Demo Video
 
-*(YouTube – Unlisted)*
+https://youtu.be/MNAWXODgQUw
 
 ---
 
